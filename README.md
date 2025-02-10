@@ -1,5 +1,5 @@
 <div align="center">
-<img  width="100%" src="banner-version2.png" alt="GitHub Banner"/>
+<img  width="300" src="banner-version2.png" alt="GitHub Banner"/>
 </div>
 
 # 💫 About Me:
