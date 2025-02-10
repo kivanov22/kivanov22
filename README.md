@@ -1,4 +1,6 @@
-<img src="banner-version2.png" alt="GitHub Banner" width="100%" />
+<div align="center">
+<img  width="500" src="banner-version2.png" alt="GitHub Banner"/>
+</div>
 
 # 💫 About Me:
 Junior Full-Stack Developer having fun creating web applications and exploring new technologies.
