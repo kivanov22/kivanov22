@@ -1,3 +1,5 @@
+<img src="banner-version2.png" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 Junior Full-Stack Developer having fun creating web applications and exploring new technologies.
 
